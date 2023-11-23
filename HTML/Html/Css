@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #ffffff; /* Texto en blanco */
+    background-color: #000000; /* Fondo negro */
+}
+
+header {
+    background-color: #000080; /* Azul oscuro */
+    padding: 1em;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #000080; /* Azul oscuro */
+    color: #ffffff; /* Texto en blanco */
+    padding: 1em;
+    text-align: center;
+}
